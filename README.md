@@ -2,6 +2,8 @@
 
 algorithmic snowflake generation for a laser cutter
 
+[![Build Status](https://travis-ci.org/epilanthanomai/snowflake.svg?branch=develop)](https://travis-ci.org/epilanthanomai/snowflake)
+
 ## Motivation
 
 The authors have access to a [Glowforge](https://glowforge.com/) laser
